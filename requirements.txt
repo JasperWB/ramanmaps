@@ -2,6 +2,4 @@ numpy
 ipywidgets
 nbinteract
 plotly
-operator
 ipywidgets
-scipy
