@@ -1,7 +1,8 @@
+--upgrade pip
 numpy
 ipywidgets
 nbinteract
 plotly
---use-wheel scipy
+scipy
 operator
 ipywidgets
